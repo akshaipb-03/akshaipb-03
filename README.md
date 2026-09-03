@@ -36,11 +36,30 @@ class AkshaiPB:
             "TensorFlow", "Keras", "Streamlit"
         ]
 
-        self.currently_learning = [
-            "Advanced Malware Analysis",
-            "Reverse Engineering",
-            "AI-based Threat Detection",
-            "Red Team Operations"
+        self.security = [
+            "CyberArk PAM Concepts", "Vulnerability Assessment",
+            "Web Application Security", "OWASP Top 10",
+            "Burp Suite", "Nmap", "Wireshark",
+            "MITRE ATT&CK", "Log Analysis"
+        ]
+
+        self.linux_cloud = [
+           "Linux Administration", "Windows Administration",
+           "SSH", "RDP", "Networking",
+           "AWS EC2", "AWS IAM",
+           "Docker", "Docker Compose"
+        ]
+
+        self.soc_tools = [
+           "Wazuh", "Splunk",
+           "SIEM", "Incident Response",
+           "Threat Detection", "Threat Intelligence"
+        ]
+
+        self.automation = [
+           "Python", "Bash/Shell Scripting",
+           "REST APIs", "Socket Programming",
+           "JSON/CSV Processing", "Git", "GitHub"
         ]
 
         self.fun_fact = "I build intrusion detection systems for fun 🚨"
