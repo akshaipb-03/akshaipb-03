@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akshai%20P%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Researcher%20%7C%20SOC%20Analyst%20%7C%20Threat%20Hunter&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akshai%20P%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20%7C%20Linux%20%26%20Server%20Administration%20%7C%20Cloud%20Security&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=🛡️+Cybersecurity+Researcher;🔍+SOC+Analyst+%7C+Threat+Hunter;🐍+Python+%7C+Splunk+%7C+Wireshark;🚨+Malware+Analyst+%7C+Incident+Responder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=🛡️+Cybersecurity+%7C+Linux+Administrator;🔐+PAM+%7C+Cloud+Security+%7C+Security+Operations;🐧+Linux+%7C+Networking+%7C+AWS+%7C+Docker;🚨+Troubleshoot.+Secure.+Automate.+Repeat.)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=akshaipb-03&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/akshaipb-03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshai--pb-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshai-pb)
@@ -26,8 +26,10 @@ class AkshaiPB:
         self.name           = "Akshai P B"
         self.location       = "Kerala, India 🇮🇳"
         self.degree         = "B.E. Computer Science & Engineering"
-        self.college        = "Rohini College of Engineering and Technology"
+        self.specialization = "Cybersecurity"
         self.cgpa           = 7.94
+
+        self.current_role = "Server Administrator Intern"
 
         self.stack = [
             "Python", "Bash/Shell", "SQL", "JavaScript",
@@ -35,21 +37,27 @@ class AkshaiPB:
         ]
 
         self.security = [
-            "CyberArk PAM Concepts", "Privileged Account Management",
-            "Account Onboarding", "Password Rotation",
+            "CyberArk PAM Concepts", "Privileged Access Management",
+            "Privileged Account Onboarding", "Password Rotation",
             "Password Reconciliation", "Access Control",
             "Vulnerability Assessment", "Web Application Security",
-            "OWASP Top 10", "Burp Suite", "Nmap",
-            "Wireshark", "Wazuh", "Splunk"
+            "OWASP Top 10", "Burp Suite", "Nmap"
         ]
 
-        self.linux_cloud = [
-            "Linux Administration", "Windows",
+        self.server_administration = [
+            "Linux Administration", "Windows Administration",
+            "Server Troubleshooting", "Service Management",
+            "Process Analysis", "Log Analysis",
+            "DNS", "SSL/TLS", "SSH", "RDP",
+            "Web Hosting", "cPanel"
+        ]
+
+        self.cloud_devops = [
             "AWS EC2", "AWS IAM",
-            "SSH", "RDP", "DNS", "SSL/TLS",
-            "Apache", "Nginx",
-            "Network Troubleshooting",
-            "Docker", "Docker Compose"
+            "Docker", "Docker Compose",
+            "Git", "GitHub",
+            "Linux Networking",
+            "Infrastructure Troubleshooting"
         ]
 
         self.networking = [
@@ -58,9 +66,9 @@ class AkshaiPB:
             "Socket Programming", "Network Diagnostics"
         ]
 
-        self.soc_tools = [
+        self.security_operations = [
             "Wazuh", "Splunk", "SIEM",
-            "Log Analysis", "Security Monitoring",
+            "Security Monitoring", "Log Analysis",
             "Alert Analysis", "Threat Detection",
             "Incident Analysis", "MITRE ATT&CK"
         ]
@@ -73,14 +81,20 @@ class AkshaiPB:
         ]
 
         self.currently_learning = [
-            "CyberArk PAM", "Privileged Access Management",
-            "Cloud Security", "Red Teaming"
+            "CyberArk PAM",
+            "Cloud Security",
+            "Privileged Access Management",
+            "Security Operations",
+            "Infrastructure Security"
         ]
 
-        self.fun_fact = "I automate security operations and build detection systems 🚨"
+        self.fun_fact = (
+            "I enjoy troubleshooting infrastructure problems "
+            "and automating security operations 🛡️"
+        )
 
     def motto(self):
-        return "Automate. Detect. Secure. Repeat. 🛡️"
+        return "Troubleshoot. Secure. Automate. Repeat. 🛡️"
 
 
 me = AkshaiPB()
@@ -132,6 +146,24 @@ print(me.motto())
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-005F73?style=flat-square&logoColor=white)
 ![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-4B0082?style=flat-square&logoColor=white)
 
+**Server & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Networking & Security**
+
+![CyberArk](https://img.shields.io/badge/CyberArk-PAM-003D6B?style=flat-square)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-00599C?style=flat-square&logo=letsencrypt&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logo=gnubash&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-Networking-6B48FF?style=flat-square)
+
 ---
 
 ## 📊 GitHub Stats
@@ -181,33 +213,59 @@ print(me.motto())
 
 ## 💼 Work Experience
 
+## 💼 Work Experience
+
+<details open>
+<summary>🖥️ <strong>HashRoot</strong> — Server Administrator Intern | Kerala, India</summary>
+
+> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-0078D4?style=flat-square) ![SSL](https://img.shields.io/badge/SSL%2FTLS-Security-00599C?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+- 🐧 Supporting Linux server administration and performing day-to-day troubleshooting of server, service, connectivity, and configuration issues.
+- 🔐 Assisting with SSL/TLS certificate monitoring and renewal workflows for hosted websites and domains.
+- 🌐 Working with DNS, networking, web hosting, SSH, service management, and infrastructure troubleshooting.
+- 🔍 Performing log analysis and command-line diagnostics to investigate server and application issues.
+- ☁️ Building practical exposure to cloud infrastructure, Linux administration, networking, and security-focused server operations.
+- 🛠️ Strengthening skills in incident investigation, technical troubleshooting, and systematic root-cause analysis.
+
+</details>
+
 <details>
-<summary>🔐 <strong>Offenso Hackers Academy</strong> — Cyber Security Researcher Intern | Oct 2025 – Present | Trivandrum, India</summary>
+<summary>🔐 <strong>Offenso Hackers Academy</strong> — Cyber Security Researcher Intern | Trivandrum, India</summary>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-6B48FF?style=flat-square) ![AI Threat Detection](https://img.shields.io/badge/AI_Threat_Detection-FF4B4B?style=flat-square)
+> ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
 
-- 🦠 Conducting **malware analysis**, vulnerability assessments, and threat hunting activities to identify security risks and attack patterns across multiple threat vectors.
-- 🤖 Performing **reverse engineering** and AI-based threat detection research to enhance cybersecurity analysis and incident response capabilities.
-- 📡 Working with **SIEM tools** (Splunk, Wazuh), network traffic analysis, and security monitoring techniques in a dedicated SOC-focused environment.
-- 🔎 Building expertise in **threat intelligence** workflows, attacker profiling, and IOC identification for proactive defense.
+- 🔍 Conducted hands-on vulnerability assessments and security testing in controlled lab environments.
+- 🌐 Tested web applications for vulnerabilities including SQL injection, XSS, broken authentication, IDOR, and insecure configurations.
+- 🛠️ Used tools including Burp Suite, Nmap, and Linux-based security tooling for reconnaissance, testing, and analysis.
+- 🧪 Built and researched cybersecurity labs focused on offensive techniques, vulnerability identification, and attack simulation.
+- 📊 Documented findings and analyzed attack techniques to understand vulnerabilities and potential defensive controls.
 
 </details>
 
 <details>
 <summary>🌐 <strong>Cloud Logic Technologies Pvt Ltd</strong> — Software Development Intern | Jun 2023 – Jul 2023 | Puducherry, India</summary>
 
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- 🚀 Developed and deployed **responsive full-stack web applications** using modern frontend and backend technologies within a production environment.
-- 🤝 Collaborated with the development team to implement new application features, optimize performance, and improve overall user experience.
-- 🔧 Gained hands-on experience in **software development workflows**, debugging, API integration, and database management practices.
-- 🗄️ Worked with **real-world codebases**, strengthening fundamentals in version control, REST APIs, and agile collaboration.
+- 🚀 Developed responsive web applications and worked with frontend and backend technologies.
+- 🔧 Gained experience in debugging, API integration, databases, and application troubleshooting.
+- 🤝 Collaborated with development teams and worked with practical software development workflows.
+- 🗄️ Strengthened fundamentals in version control, REST APIs, and application development.
 
 </details>
-
 ---
 
 ## 🚀 Featured Projects
+<div align="center">
+
+| 🔬 Project | 🛠️ Stack | ✨ Highlights |
+|:----------:|:--------:|:-------------|
+| [**CyberArk PAM Enterprise Lab**](https://github.com/akshaipb-03/CyberArk-PAM-Enterprise-Lab) | AWS EC2 · Linux · Windows · Python · SSH · RDP | Simulated enterprise PAM lifecycle including privileged account onboarding, password rotation, reconciliation, connectivity validation, failure handling, retry logic, and centralized audit reporting |
+| [**SOCSight — Security Monitoring Lab**](https://github.com/akshaipb-03) | Python · Wazuh · Docker · Streamlit | Security-focused monitoring lab for log analysis, threat detection, attack simulation, and SOC-style alert investigation |
+| [**Web Application Security Research Lab**](https://github.com/akshaipb-03) | Python · SQL · JavaScript · Burp Suite | Hands-on web security testing focused on SQLi, XSS, authentication flaws, IDOR, and insecure configurations |
+| [**Malware Detection using Hybrid Algorithms**](https://github.com/akshaipb-03) | Python · ML | Cybersecurity-focused malware classification project using feature engineering and machine learning techniques |
+
+</div>
 
 <div align="center">
 
@@ -221,17 +279,41 @@ print(me.motto())
 
 ---
 
+---
+
+## 🔐 CyberArk PAM Enterprise Lab
+
+> **A hands-on project simulating the operational lifecycle of privileged accounts in an enterprise Privileged Access Management environment.**
+
+**Key Areas Demonstrated:**
+
+- 🔑 Privileged account onboarding workflows
+- 🗃️ CyberArk-inspired Safe and platform mapping concepts
+- 🔄 Password rotation and reconciliation simulations
+- 🧪 Rotation failure reproduction and troubleshooting
+- 🔁 Retry-based validation for unreliable connectivity
+- 🐧 Linux SSH connectivity validation
+- 🪟 Windows RDP connectivity validation
+- ☁️ Real AWS EC2 infrastructure
+- 📊 Centralized PAM operations audit reporting
+- 🐍 Python automation with CSV/JSON processing
+- 🌐 Network troubleshooting and socket-based connectivity checks
+
+> ⚠️ The project intentionally distinguishes between **real infrastructure validation** and **simulated CyberArk password-management workflows**. It does not claim to deploy a production CyberArk Vault, CPM, PVWA, or PSM environment.
+
 ## 🎖️ Achievements & Certifications
+
+## 🎖️ Key Achievements & Projects
 
 <div align="center">
 
 | 🏅 | Achievement | Details |
 |:--:|:-----------:|:--------|
-| 🎓 | **Google Cybersecurity Certificate** | Completed hands-on training in SIEM, log analysis, threat detection, incident response & SOC operations |
-| 🌐 | **Cisco CCNA (200-301)** | Networking fundamentals: IP addressing, subnetting, OSPF, VLANs, TCP/IP, Cisco Packet Tracer simulations |
-| 🛡️ | **Cybersecurity Research** | Active malware analysis, reverse engineering & AI-based threat detection at Offenso Hackers Academy |
-| 🔭 | **SOC Project — SOCSight IDS** | Built a complete log-based IDS with real-time dashboard, attacker profiling & multi-attack-type detection |
-| 🤖 | **ML Security System** | Designed hybrid malware detection system using TensorFlow/Keras on large-scale cybersecurity datasets |
+| 🔐 | **CyberArk PAM Enterprise Lab** | Built a PAM operations lab using AWS EC2, Linux, Windows, Python, SSH, RDP, password lifecycle simulations, reconciliation, retry logic, and audit reporting |
+| 🖥️ | **Server Administration Experience** | Practical exposure to Linux troubleshooting, networking, SSL/TLS operations, DNS, web hosting, and infrastructure support |
+| 🛡️ | **Cybersecurity Research** | Hands-on security research covering vulnerability assessment, web application security, offensive security concepts, and attack simulation |
+| 📡 | **SOC & Detection Labs** | Built security monitoring and detection projects using log analysis, SIEM concepts, Python, and attack detection techniques |
+| 🌐 | **Infrastructure & Networking** | Practical work with TCP/IP, subnetting, DNS, SSH, RDP, AWS EC2, Docker, and network troubleshooting |
 
 </div>
 
@@ -251,14 +333,15 @@ print(me.motto())
 
 ## 📚 Currently Learning
 
-```
-🔬 Reverse Engineering      → Binary analysis, x86/x64 assembly, Ghidra, IDA Pro
-🤖 AI Threat Detection      → ML models for anomaly detection, NLP for log analysis
-🏴 Advanced Penetration Testing → Red teaming, privilege escalation, post-exploitation
-🧩 Digital Forensics        → Memory forensics, disk imaging, artifact analysis
-☁️ Cloud Security           → AWS/Azure security posture, IAM, CSPM tools
-```
+## 📚 Currently Building & Learning
 
+```text
+🔐 CyberArk PAM               → Privileged account lifecycle & PAM operations
+☁️ Cloud Security             → AWS IAM, EC2 security & infrastructure protection
+🖥️ Server Administration      → Linux, services, logs & troubleshooting
+🐳 Infrastructure Security    → Docker, containers & secure deployment
+📡 Security Operations        → Monitoring, SIEM, detection & incident analysis
+🌐 Networking                 → DNS, TCP/IP, SSL/TLS & connectivity troubleshooting
 ---
 
 <div align="center">
