@@ -221,18 +221,6 @@ print(me.motto())
 
 </div>
 
-<div align="center">
-
-| 🔬 Project | 🛠️ Stack | ✨ Highlights |
-|:----------:|:--------:|:-------------|
-| [**SOCSight — Log-Based IDS**](https://github.com/akshaipb-03) | Python · Streamlit · Regex | Real-time SOC dashboard detecting SQL Injection, XSS & Command Injection; attacker profiling & alert generation |
-| [**Web App Security & Defacement Research Lab**](https://github.com/akshaipb-03) | Python · SQL · JavaScript · Burp Suite | Full-stack airline booking app converted to security lab; hands-on testing of SQLi, XSS, auth flaws & insecure configs |
-| [**Malware Detection using Hybrid Algorithms**](https://github.com/akshaipb-03) | TensorFlow · Keras · Python · ML | ML-based malware detection system with feature engineering, model optimization & cybersecurity-focused classification metrics |
-
-</div>
-
----
-
 ---
 
 ## 🔐 CyberArk PAM Enterprise Lab
