@@ -245,7 +245,13 @@ print(me.motto())
 
 ## 🎖️ Achievements & Certifications
 
-<div align="center"> | 🏅 | Achievement | Details | |:--:|:-----------:|:--------| | 🎓 | **Google Cybersecurity Certificate** | Completed hands-on training in SIEM, log analysis, threat detection, incident response & SOC operations | | 🌐 | **Cisco CCNA (200-301)** | Networking fundamentals: IP addressing, subnetting, OSPF, VLANs, TCP/IP, Cisco Packet Tracer simulations | | 🛡️ | **Cybersecurity Research** | Active malware analysis, reverse engineering & AI-based threat detection at Offenso Hackers Academy | | 🔭 | **SOC Project — SOCSight IDS** | Built a complete log-based IDS with real-time dashboard, attacker profiling & multi-attack-type detection | | 🤖 | **ML Security System** | Designed hybrid malware detection system using TensorFlow/Keras on large-scale cybersecurity datasets | </div>
+| 🏅 | Achievement | Details |
+|:--:|:-----------|:--------|
+| 🎓 | **Google Cybersecurity Certificate** | Completed hands-on training in SIEM, log analysis, threat detection, incident response &amp; SOC operations |
+| 🌐 | **Cisco CCNA (200-301)** | Networking fundamentals: IP addressing, subnetting, OSPF, VLANs, TCP/IP &amp; Cisco Packet Tracer simulations |
+| 🛡️ | **Cybersecurity Research** | Active malware analysis, reverse engineering &amp; AI-based threat detection at Offenso Hackers Academy |
+| 🔭 | **SOC Project — SOCSight IDS** | Built a complete log-based IDS with real-time dashboard, attacker profiling &amp; multi-attack-type detection |
+| 🤖 | **ML Security System** | Designed a hybrid malware detection system using TensorFlow/Keras on cybersecurity datasets |
 
 ## 🎖️ Key Achievements & Projects
 
