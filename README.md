@@ -30,42 +30,58 @@ class AkshaiPB:
         self.cgpa           = 7.94
 
         self.stack = [
-            "Python", "SQL", "JavaScript",
-            "Splunk", "Wazuh", "Wireshark",
-            "Burp Suite", "Nmap", "Metasploit",
-            "TensorFlow", "Keras", "Streamlit"
+            "Python", "Bash/Shell", "SQL", "JavaScript",
+            "Git", "GitHub", "Docker", "Docker Compose"
         ]
 
         self.security = [
-            "CyberArk PAM Concepts", "Vulnerability Assessment",
-            "Web Application Security", "OWASP Top 10",
-            "Burp Suite", "Nmap", "Wireshark",
-            "MITRE ATT&CK", "Log Analysis"
+            "CyberArk PAM Concepts", "Privileged Account Management",
+            "Account Onboarding", "Password Rotation",
+            "Password Reconciliation", "Access Control",
+            "Vulnerability Assessment", "Web Application Security",
+            "OWASP Top 10", "Burp Suite", "Nmap",
+            "Wireshark", "Wazuh", "Splunk"
         ]
 
         self.linux_cloud = [
-           "Linux Administration", "Windows Administration",
-           "SSH", "RDP", "Networking",
-           "AWS EC2", "AWS IAM",
-           "Docker", "Docker Compose"
+            "Linux Administration", "Windows",
+            "AWS EC2", "AWS IAM",
+            "SSH", "RDP", "DNS", "SSL/TLS",
+            "Apache", "Nginx",
+            "Network Troubleshooting",
+            "Docker", "Docker Compose"
+        ]
+
+        self.networking = [
+            "TCP/IP", "Subnetting", "DNS", "DHCP",
+            "Routing", "Switching", "VLANs", "NAT",
+            "Socket Programming", "Network Diagnostics"
         ]
 
         self.soc_tools = [
-           "Wazuh", "Splunk",
-           "SIEM", "Incident Response",
-           "Threat Detection", "Threat Intelligence"
+            "Wazuh", "Splunk", "SIEM",
+            "Log Analysis", "Security Monitoring",
+            "Alert Analysis", "Threat Detection",
+            "Incident Analysis", "MITRE ATT&CK"
         ]
 
         self.automation = [
-           "Python", "Bash/Shell Scripting",
-           "REST APIs", "Socket Programming",
-           "JSON/CSV Processing", "Git", "GitHub"
+            "Python Automation", "Bash/Shell Scripting",
+            "CSV/JSON Processing", "Socket Programming",
+            "Retry Logic", "Error Handling",
+            "Connectivity Validation", "Audit Reporting"
         ]
 
-        self.fun_fact = "I build intrusion detection systems for fun 🚨"
+        self.currently_learning = [
+            "CyberArk PAM", "Privileged Access Management",
+            "Cloud Security", "Red Teaming"
+        ]
+
+        self.fun_fact = "I automate security operations and build detection systems 🚨"
 
     def motto(self):
-        return "Defend. Detect. Respond. Repeat. 🛡️"
+        return "Automate. Detect. Secure. Repeat. 🛡️"
+
 
 me = AkshaiPB()
 print(me.motto())
